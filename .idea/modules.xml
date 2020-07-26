@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TCP客户端.iml" filepath="$PROJECT_DIR$/.idea/TCP客户端.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../装饰器/.idea/装饰器.iml" filepath="$PROJECT_DIR$/../装饰器/.idea/装饰器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../迭代器/.idea/迭代器.iml" filepath="$PROJECT_DIR$/../迭代器/.idea/迭代器.iml" />
+    </modules>
+  </component>
+</project>
